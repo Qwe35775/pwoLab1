@@ -10,7 +10,10 @@ public class Main {
         System.out.print("Hello and welcome11!!");
         System.out.print("Hello and welcome11!!");
         System.out.print("Hello and welcome11!jdfhbnfkhv!");
-
+        System.out.print("Hello and welcome11!jdfhbnfkhv!");
+        System.out.print("Hello and welcome11!jdfhbnfkhv!");
         for (int i = 1; i <= 5; i++) System.out.println("i = " + i);
+        System.out.print("Hello and welcome11!jdfhbnfkhv!");
+        System.out.print("Hello and welcome11!jdfhbnfkhv!");
     }
 }
